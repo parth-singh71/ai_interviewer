@@ -2,7 +2,7 @@
 
 ## Overview
 
-AI Interviewer is an intelligent, speech-based interview simulation tool built using Whisper for speech-to-text transcription, WebRTC VAD for voice activity detection, and a LangGraph-powered interview engine. It dynamically conducts interviews, processes responses in real-time, and scores performance — all through a natural conversation flow.
+AI Interviewer is an intelligent, speech-based interview simulation tool built using Whisper for speech-to-text transcription, WebRTC VAD for voice activity detection, and a LangGraph-powered interview engine. It dynamically conducts interviews, processes responses in real-time, provides feedback, asks contextual follow-up questions and scores performance through a natural conversation flow.
 
 ## Features
 
